@@ -7,3 +7,12 @@
 **Название проекта:** Методический автопилот для спортивных школ
 
 **Краткое описание:** Единая облачная экосистема, автоматизирующая полный цикл жизни спортивной школы (учёт посещений, оплаты, личный дневник спортсмена, чаты для родителей и дашборд владельца).
+
+![Slide 16_9 - 10](https://github.com/user-attachments/assets/74195875-0564-4df3-9750-c43699d1fb1f)
+![Slide 16_9 - 9](https://github.com/user-attachments/assets/56b248fb-4631-4495-a49a-6d253867e585)
+![Slide 16_9 - 6](https://github.com/user-attachments/assets/d5dab4e1-a026-4792-a769-32884d16e70a)
+![Slide 16_9 - 7](https://github.com/user-attachments/assets/7c4304ce-64c4-4a53-8e58-c87d6a9a2656)
+
+
+
+
